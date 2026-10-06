@@ -4,6 +4,14 @@ An interactive quiz web application designed to test and assess developers' know
 
 ---
 
+## 🔗 Live Demo
+
+Check out the live version of the game here:  
+👉 **[Play Tic-Tac-Toe Live](https://mo-mahmoud-dev.github.io/Quiz-App/)**
+
+---
+
+
 ## 🌟 Features
 
 * **Interactive Quizzes:** Multiple-choice questions with immediate scoring and feedback.
